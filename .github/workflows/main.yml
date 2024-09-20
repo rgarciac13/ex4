@@ -1,8 +1,8 @@
-name: "Hola Mundo Workflow"
+name: "Hola MundoWorkflow"
 on:
   push:
     branches:
-      - main
+      - master
 jobs:
   hola-mundo:
     runs-on: ubuntu-latest
